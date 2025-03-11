@@ -1,6 +1,3 @@
-velaiya paaru da...
+## **Aspiring Game Engineer | AI & Machine Learning Enthusiast | Python Developer**
 
-<!---
-yukesh-08/yukesh-08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about integrating artificial intelligence and machine learning into game development, I specialize in AI-driven game mechanics, deep learning models, and Python-based development. With expertise in frameworks like TensorFlow and PyTorch, I have worked on AI-powered storytelling chatbots, real-time crowd surveillance systems, and neural network optimizations. My technical skills include Python programming, AI model deployment with ONNX and TensorRT, and game development using Unity and Unreal Engine. Currently developing a cyberpunk RPG, I am dedicated to building innovative AI-driven gaming experiences and pushing the boundaries of machine learning in interactive environments.
